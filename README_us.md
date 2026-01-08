@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=6000&pause=2000&color=9745F5&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+my+name+is+Franklin+Dantas+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Data+Analysis+Specialist+%F0%9F%93%8A;Passionate+about+SQL+and+Power+BI+%F0%9F%92%A1;Recife%2C+PE+-+Brazil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=2000&color=9745F5&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+my+name+is+Franklin+Dantas+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Data+Specialist+%F0%9F%93%8A;;Recife%2C+PE+Brazil)](https://git.io/typing-svg)
 
 </div>
 
