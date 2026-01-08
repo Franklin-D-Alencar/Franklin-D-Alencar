@@ -147,6 +147,7 @@
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=A855F7"></a>
     <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=A855F7"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
+    <a href="#"><img alt="ETL" src="https://img.shields.io/badge/ETL-0d1117?style=for-the-badge&logo=apache-spark&logoColor=A855F7"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=A855F7"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=A855F7"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=A855F7"></a>
@@ -155,11 +156,15 @@
   <h3>Ferramentas & Tecnologias</h3>
 
   <p>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=8b5cf6"></a>
+    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=8b5cf6"></a>
+    <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=8b5cf6"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=8b5cf6"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=8b5cf6"></a>
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoft-azure&logoColor=8b5cf6"></a>
+    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=8b5cf6"></a>
+    <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=8b5cf6"></a>
     <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=8b5cf6"></a>
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=8b5cf6"></a>
     <a href="#"><img alt="TOTVS" src="https://img.shields.io/badge/TOTVS-0d1117?style=for-the-badge&logoColor=8b5cf6"></a>
   </p>
 
@@ -170,7 +175,6 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=6d28d9"></a>
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=6d28d9"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=6d28d9"></a>
-    <a href="#"><img alt="ETL" src="https://img.shields.io/badge/ETL-0d1117?style=for-the-badge&logo=apache-spark&logoColor=6d28d9"></a>
     <a href="#"><img alt="Scrum" src="https://img.shields.io/badge/Scrum-0d1117?style=for-the-badge&logo=scrumalliance&logoColor=6d28d9"></a>
   </p>
 </details>
