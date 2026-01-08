@@ -141,7 +141,7 @@
   <summary><h2>Habilidades Técnicas</h2></summary>
 
   <!-- ================= CORE SKILLS ================= -->
-<h3style="color: #66b3ff;">Core SkillsF</h3>
+<h3 style="color: #66b3ff;">Core SkillsF</h3>
   <p>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=database&logoColor=A855F7"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
