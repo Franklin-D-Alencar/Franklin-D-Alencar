@@ -29,61 +29,81 @@
 
 <div align="center">
 
+### 📈 Gráfico de Contribución
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Franklin-Dantas&custom_title=Grafico%20de%20Contribucion&bg_color=0d1117&color=9745f5&line=00d9ff&point=ffffff&area_color=1a1b6c&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+##
+
+<div align="center">
+
 ### 👨‍💻 Sobre mí
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Desarrollador" width="300"/>
 
 </div>
 
+##
+
 <div align="center">
 
-| Perfil y Expertise |
-|:---:|
-| 💼 Desarrollador Full-Stack con enfoque en Análisis y Modelado de Datos |
-| 📊 Especialista en SQL, Power BI, Pipelines ETL y Visualización de Datos |
-| 🚀 Apasionado por usar tecnología para impacto social e innovación |
-| 🏆 2º Lugar - NASA SpaceApps Challenge 2022 |
-| 🥉 Top 3 - Premio de Excelencia (Fundación Estudar) 2025 |
+### 🎯 Perfil y Expertise
 
 </div>
+
+```
+💼 Desarrollador Full-Stack con enfoque en Análisis y Modelado de Datos
+📊 Especialista en SQL, Power BI, Pipelines ETL y Visualización de Datos
+🚀 Apasionado por usar tecnología para impacto social e innovación
+🏆 2º Lugar - NASA SpaceApps Challenge 2022
+🥉 Top 3 - Premio de Excelencia (Fundación Estudar) 2025
+```
 
 ##
 
 <div align="center">
 
-| Formación |
-|:---:|
-| 🎓 Ciencias de la Computación - Universidad Católica de Pernambuco (2020-2025) |
-| 📚 Desarrollo Full-Stack - Cubos Academy & Trybe |
-| 📖 Análisis y Desarrollo de Sistemas - FATECH |
+### 🎓 Formación
 
 </div>
+
+```
+🎓 Ciencias de la Computación - Universidad Católica de Pernambuco (2020-2025)
+📚 Desarrollo Full-Stack - Cubos Academy & Trybe
+📖 Análisis y Desarrollo de Sistemas - FATECH
+```
 
 ##
 
 <div align="center">
 
-| Enfoque Actual |
-|:---:|
-| 🎯 Análisis de Datos & Optimización de Bases de Datos |
-| 🚀 Construcción de aplicaciones Full-Stack escalables |
-| 📊 Creación de dashboards interactivos e insights basados en datos |
-| 🤝 Contribución a proyectos sociales y voluntarios |
+### 🎯 Enfoque Actual
 
 </div>
+
+```
+🎯 Análisis de Datos & Optimización de Bases de Datos
+🚀 Construcción de aplicaciones Full-Stack escalables
+📊 Creación de dashboards interactivos e insights basados en datos
+🤝 Contribución a proyectos sociales y voluntarios
+```
 
 ##
 
 <div align="center">
 
-| Destacados de Experiencia |
-|:---:|
-| 📈 Pasante de Análisis de Datos en UNICAP - Polo Tecnológico |
-| 💻 Desarrollador Full-Stack en Denzel Eventos (Freelance) |
-| 📋 Pasante de Análisis de Requisitos en Árvore Consultoria |
-| 🤝 Voluntario en War Room Teleton 2025, NASA SpaceApps, SBPC |
+### 💼 Destacados de Experiencia
 
 </div>
+
+```
+📈 Pasante de Análisis de Datos en UNICAP - Polo Tecnológico
+💻 Desarrollador Full-Stack en Denzel Eventos (Freelance)
+📋 Pasante de Análisis de Requisitos en Árvore Consultoria
+🤝 Voluntario en War Room Teleton 2025, NASA SpaceApps, SBPC
+```
 
 ##
 
@@ -93,35 +113,26 @@
 
 </div>
 
-<div align="center">
+```
+🏆 NASA SpaceApps Challenge 2022 - 2º Lugar
+   • Chatbot con IA para democratización del conocimiento científico
+   • Integración de NLP y procesamiento de big data
+   • Pipelines ETL para ingestión de datos a gran escala
+```
 
-| 🏆 NASA SpaceApps Challenge 2022 - 2º Lugar |
-|:---|
-| • Chatbot con IA para democratización del conocimiento científico |
-| • Integración de NLP y procesamiento de big data |
-| • Pipelines ETL para ingestión de datos a gran escala |
+```
+🏅 Premio de Excelencia 2025 - Top 3
+   • Plataforma de participación cívica y fiscalización democrática
+   • Recolección y análisis de datos en tiempo real
+   • Dashboards interactivos, sistema de votación e informes de transparencia
+```
 
-</div>
-
-<div align="center">
-
-| 🏅 Premio de Excelencia 2025 - Top 3 |
-|:---|
-| • Plataforma de participación cívica y fiscalización democrática |
-| • Recolección y análisis de datos en tiempo real |
-| • Dashboards interactivos, sistema de votación e informes de transparencia |
-
-</div>
-
-<div align="center">
-
-| 💼 Denzel Eventos - Sistema Full-Stack |
-|:---|
-| • APIs en Node.js con backend SQL Server |
-| • Frontend responsivo en React + Tailwind CSS |
-| • Deploy en Azure para escalabilidad |
-
-</div>
+```
+💼 Denzel Eventos - Sistema Full-Stack
+   • APIs en Node.js con backend SQL Server
+   • Frontend responsivo en React + Tailwind CSS
+   • Deploy en Azure para escalabilidad
+```
 
 ##
 
@@ -174,10 +185,11 @@
 
 ### 🌍 Idiomas
 
-| 🇺🇸 Inglés - Avanzado | 🇪🇸 Español - Avanzado | 🇧🇷 Portugués - Nativo |
-|:---:|:---:|:---:|
-
 </div>
+
+```
+🇺🇸 Inglés - Avanzado        🇪🇸 Español - Avanzado        🇧🇷 Portugués - Nativo
+```
 
 ##
 
@@ -198,8 +210,6 @@
 
 ### 👀 Contador de Visitas
 
-<br>
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=Franklin-Dantas&color=blueviolet&style=for-the-badge)
 
 </div>
@@ -208,11 +218,9 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake.svg">
-</picture>
+### 🐍 Mis Contribuciones
+
+<img src="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 

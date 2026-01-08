@@ -29,61 +29,81 @@
 
 <div align="center">
 
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Franklin-Dantas&custom_title=Contribution%20Graph&bg_color=0d1117&color=9745f5&line=00d9ff&point=ffffff&area_color=1a1b6c&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+##
+
+<div align="center">
+
 ### 👨‍💻 About me
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer" width="300"/>
 
 </div>
 
+##
+
 <div align="center">
 
-| Profile and Expertise |
-|:---:|
-| 💼 Full-Stack Developer focused on Data Analysis and Modeling |
-| 📊 Specialist in SQL, Power BI, ETL Pipelines and Data Visualization |
-| 🚀 Passionate about using technology for social impact and innovation |
-| 🏆 2nd Place - NASA SpaceApps Challenge 2022 |
-| 🥉 Top 3 - Excellence Award (Fundação Estudar) 2025 |
+### 🎯 Profile and Expertise
 
 </div>
+
+```
+💼 Full-Stack Developer focused on Data Analysis and Modeling
+📊 Specialist in SQL, Power BI, ETL Pipelines and Data Visualization
+🚀 Passionate about using technology for social impact and innovation
+🏆 2nd Place - NASA SpaceApps Challenge 2022
+🥉 Top 3 - Excellence Award (Fundação Estudar) 2025
+```
 
 ##
 
 <div align="center">
 
-| Education |
-|:---:|
-| 🎓 Computer Science - Catholic University of Pernambuco (2020-2025) |
-| 📚 Full-Stack Development - Cubos Academy & Trybe |
-| 📖 Systems Analysis and Development - FATECH |
+### 🎓 Education
 
 </div>
+
+```
+🎓 Computer Science - Catholic University of Pernambuco (2020-2025)
+📚 Full-Stack Development - Cubos Academy & Trybe
+📖 Systems Analysis and Development - FATECH
+```
 
 ##
 
 <div align="center">
 
-| Current Focus |
-|:---:|
-| 🎯 Data Analysis & Database Optimization |
-| 🚀 Building scalable Full-Stack applications |
-| 📊 Creating interactive dashboards and data-driven insights |
-| 🤝 Contributing to social and volunteer projects |
+### 🎯 Current Focus
 
 </div>
+
+```
+🎯 Data Analysis & Database Optimization
+🚀 Building scalable Full-Stack applications
+📊 Creating interactive dashboards and data-driven insights
+🤝 Contributing to social and volunteer projects
+```
 
 ##
 
 <div align="center">
 
-| Experience Highlights |
-|:---:|
-| 📈 Data Analysis Intern at UNICAP - Technology Hub |
-| 💻 Full-Stack Developer at Denzel Events (Freelance) |
-| 📋 Requirements Analysis Intern at Árvore Consultoria |
-| 🤝 Volunteer at War Room Teleton 2025, NASA SpaceApps, SBPC |
+### 💼 Experience Highlights
 
 </div>
+
+```
+📈 Data Analysis Intern at UNICAP - Technology Hub
+💻 Full-Stack Developer at Denzel Events (Freelance)
+📋 Requirements Analysis Intern at Árvore Consultoria
+🤝 Volunteer at War Room Teleton 2025, NASA SpaceApps, SBPC
+```
 
 ##
 
@@ -93,35 +113,26 @@
 
 </div>
 
-<div align="center">
+```
+🏆 NASA SpaceApps Challenge 2022 - 2nd Place
+   • AI Chatbot for democratization of scientific knowledge
+   • NLP integration and big data processing
+   • ETL pipelines for large-scale data ingestion
+```
 
-| 🏆 NASA SpaceApps Challenge 2022 - 2nd Place |
-|:---|
-| • AI Chatbot for democratization of scientific knowledge |
-| • NLP integration and big data processing |
-| • ETL pipelines for large-scale data ingestion |
+```
+🏅 Excellence Award 2025 - Top 3
+   • Civic engagement and democratic oversight platform
+   • Real-time data collection and analysis
+   • Interactive dashboards, voting system and transparency reports
+```
 
-</div>
-
-<div align="center">
-
-| 🏅 Excellence Award 2025 - Top 3 |
-|:---|
-| • Civic engagement and democratic oversight platform |
-| • Real-time data collection and analysis |
-| • Interactive dashboards, voting system and transparency reports |
-
-</div>
-
-<div align="center">
-
-| 💼 Denzel Events - Full-Stack System |
-|:---|
-| • Node.js APIs with SQL Server backend |
-| • Responsive frontend in React + Tailwind CSS |
-| • Azure deployment for scalability |
-
-</div>
+```
+💼 Denzel Events - Full-Stack System
+   • Node.js APIs with SQL Server backend
+   • Responsive frontend in React + Tailwind CSS
+   • Azure deployment for scalability
+```
 
 ##
 
@@ -174,10 +185,11 @@
 
 ### 🌍 Languages
 
-| 🇺🇸 English - Advanced | 🇪🇸 Spanish - Advanced | 🇧🇷 Portuguese - Native |
-|:---:|:---:|:---:|
-
 </div>
+
+```
+🇺🇸 English - Advanced        🇪🇸 Spanish - Advanced        🇧🇷 Portuguese - Native
+```
 
 ##
 
@@ -198,8 +210,6 @@
 
 ### 👀 Visitors Count
 
-<br>
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=Franklin-Dantas&color=blueviolet&style=for-the-badge)
 
 </div>
@@ -208,11 +218,9 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake.svg">
-</picture>
+### 🐍 My Contributions
+
+<img src="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
