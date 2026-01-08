@@ -11,7 +11,7 @@
 <a href="README.md">
   <img src="https://img.shields.io/badge/🇧🇷_PORTUGUÊS-a855f7?style=for-the-badge&labelColor=6d28d9"/>
 </a>
-
+  
 <br/><br/>
 
 <!-- Badges section -->
