@@ -7,6 +7,7 @@
 [![Português](https://img.shields.io/badge/🇧🇷_Português-0d1117?style=for-the-badge)](README.md)
 
 <br/>
+
 <!-- Badges section -->
 <p align="center">
   <a href="https://github.com/Franklin-Dantas?tab=repositories&sort=stargazers">
