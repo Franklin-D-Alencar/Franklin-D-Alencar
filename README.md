@@ -1,17 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f23,50:1a1a3e,75:2d1b4e,100:4a1a6b&height=200&section=header&text=Franklin%20Dantas&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Data%20Specialist%20&descAlignY=55&descSize=18"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f23,50:1a1a3e,75:2d1b4e,100:4a1a6b&height=200&section=header&text=Franklin%20Dantas&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20|%20Engenheiro%20de%20Ia/Dados%20&descAlignY=55&descSize=28"/>
 
 <div align="center">
 
 [![English](https://img.shields.io/badge/🇺🇸_English-0d1117?style=for-the-badge)](README_us.md)
 [![Español](https://img.shields.io/badge/🇪🇸_Español-0d1117?style=for-the-badge)](README_es.md)
 [![Português](https://img.shields.io/badge/🇧🇷_Português-0d1117?style=for-the-badge)](README.md)
-
-<br/>
-
-<!-- Astronaut GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2Y2x6NHB5MnBxdWt3OGJ6bXB3NnJhcXBocWV4YnE3N3RzYnFyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" alt="Astronaut"/>
-</div>
 
 <!-- Badges section -->
 <p align="center">
@@ -28,6 +21,12 @@
 
 <br/>
 
+<br/>
+
+<!-- Astronaut GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2Y2x6NHB5MnBxdWt3OGJ6bXB3NnJhcXBocWV4YnE3N3RzYnFyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" alt="Astronaut"/>
+</div>
 ##
 
 <!-- About Me Section -->
