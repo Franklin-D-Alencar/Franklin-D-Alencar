@@ -340,9 +340,7 @@ const franklin = {
 
 ##
 -->
-
-1. Trabalho Voluntário - Tabela expandida:
-html<!-- Volunteer Section -->
+<!-- Volunteer Section -->
 <details open>
   <summary><h2>🤝 Trabalho Voluntário</h2></summary>
   
