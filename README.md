@@ -83,7 +83,7 @@ const franklin = {
 ##
 
 <!-- Achievements Section -->
-<details open>
+<details align="center" open>
   <summary><h2>🏆 Conquistas & Projetos</h2></summary>
   
   <table>
@@ -132,10 +132,10 @@ const franklin = {
 
 <!-- Skills Section -->
 <details open>
-  <summary><h2>🚀 Habilidades Técnicas</h2></summary>
+  <summary><h2>Habilidades Técnicas</h2></summary>
 
   <!-- ================= CORE SKILLS ================= -->
-  <h3>💎 Core Skills</h3>
+  <h3>Core Skills</h3>
   <p>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=A855F7"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
@@ -148,7 +148,7 @@ const franklin = {
   </p>
 
   <!-- ================= INTELIGÊNCIA ARTIFICIAL ================= -->
-  <h3>🤖 Inteligência Artificial</h3>
+  <h3>Inteligência Artificial</h3>
   <p>
     <a href="#"><img alt="LLM" src="https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=9333ea"></a>
     <a href="#"><img alt="SLM" src="https://img.shields.io/badge/SLM-0d1117?style=for-the-badge&logo=googlebard&logoColor=9333ea"></a>
@@ -172,7 +172,7 @@ const franklin = {
   </p>
 
   <!-- ================= LINGUAGENS ================= -->
-  <h3>💻 Linguagens de Programação</h3>
+  <h3>Linguagens de Programação</h3>
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=A855F7"></a>
@@ -184,7 +184,7 @@ const franklin = {
   </p>
 
   <!-- ================= WEB ================= -->
-  <h3>🌐 Web & Markup</h3>
+  <h3>Web & Markup</h3>
   <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=A855F7"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=A855F7"></a>
@@ -193,7 +193,7 @@ const franklin = {
   </p>
 
   <!-- ================= FRAMEWORKS ================= -->
-  <h3>📚 Frameworks & Bibliotecas</h3>
+  <h3>Frameworks & Bibliotecas</h3>
   <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=A855F7"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=A855F7"></a>
@@ -205,7 +205,7 @@ const franklin = {
   </p>
 
   <!-- ================= DATABASE & CLOUD ================= -->
-  <h3>☁️ Banco de Dados & Cloud</h3>
+  <h3>Banco de Dados & Cloud</h3>
   <p>
     <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=A855F7"></a>
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=A855F7"></a>
@@ -220,7 +220,7 @@ const franklin = {
   </p>
 
   <!-- ================= TOOLS ================= -->
-  <h3>🛠️ Ferramentas & Ambiente</h3>
+  <h3>Ferramentas & Ambiente</h3>
   <p>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=A855F7"></a>
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=A855F7"></a>
@@ -242,7 +242,7 @@ const franklin = {
 ##
 
 <!-- Volunteer Section -->
-<details open>
+<details align="center" open>
   <summary><h2>🤝 Trabalho Voluntário</h2></summary>
   
   | 🎯 | Evento | Função | Ano |
@@ -343,7 +343,7 @@ const franklin = {
 
 <!-- Connect Section -->
 <div align="center">
-  <h2>🌐 Conecte-se Comigo</h2>
+  <h2>Conecte-se Comigo</h2>
   
   <a href="https://www.linkedin.com/in/franklin-dantas1998/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/>
