@@ -95,8 +95,6 @@
 <details open> 
   <summary><h2>Estatísticas & Atividade</h2></summary>
 
-  <h3>Streak Stats</h3>
-  
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Minha sequência de contribuições" alt="Franklin's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Franklin-Dantas&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=8B5CF6&fire=A855F7&currStreakNum=FFFFFF&sideNums=A855F7&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=888888"/>
