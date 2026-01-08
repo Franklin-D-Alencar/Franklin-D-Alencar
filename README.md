@@ -1,34 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f23,50:1a1a3e,75:2d1b4e,100:4a1a6b&height=180&section=header&text=Franklin%20Dantas&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Data%20Specialist%20🚀&descAlignY=55&descSize=18"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f23,50:1a1a3e,75:2d1b4e,100:4a1a6b&height=180&section=header&text=Franklin%20Dantas&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Data%20Specialist%20&descAlignY=55&descSize=18"/>
 
 <div align="center">
 
 [![English](https://img.shields.io/badge/🇺🇸_English-0d1117?style=for-the-badge)](README_us.md)
 [![Español](https://img.shields.io/badge/🇪🇸_Español-0d1117?style=for-the-badge)](README_es.md)
 [![Português](https://img.shields.io/badge/🇧🇷_Português-0d1117?style=for-the-badge)](README.md)
-
-</div>
-
-<!-- Typing SVG -->
-<div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=👋+Olá%2C+eu+sou+Franklin+Dantas;🚀+Desenvolvedor+Full-Stack+%7C+Especialista+em+Dados;🌌+Transformando+dados+em+insights+estelares" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCzwYz3UcZ1BhwdulCzrxIFA"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/franklin-dantas1998/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/franklin.a.d/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:jfranklin.a.d@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/mVm29vK.png"/></a>
-</p>
-
-<br/>
 
 <!-- Badges section -->
 <p align="center">
