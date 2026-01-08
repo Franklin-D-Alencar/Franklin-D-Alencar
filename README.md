@@ -253,15 +253,11 @@
 </details>
 -->
 
-##
-
 <!-- Snake Animation -->
 <!--<div align="center">
   <h2>Minhas Contribuições</h2>
   <img src="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-##
 
 <!-- Connect Section -->
 <div align="center">
@@ -287,12 +283,8 @@
 ##
 
 <div align="center">
-<br/>
-  
-  <sub>Se você gostou do que viu, deixe uma estrela nos meus repositórios!</sub>
-  
-  <br/><br/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="400" alt="Star"/>
+  <sub>Se você gostou do que viu, deixe uma estrela nos meus repositórios!</sub>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1a6b,25:2d1b4e,50:1a1a3e,75:0f0f23,100:000000&height=120&section=footer"/>
