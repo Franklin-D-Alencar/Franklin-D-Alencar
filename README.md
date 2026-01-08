@@ -74,7 +74,7 @@ const FranklinDantas = {
 ##
 
 <!-- Achievements Section -->
-<details open>
+<details   align="center" open>
   <summary><h2>🏆 Conquistas & Projetos</h2></summary>
   
   <table>
