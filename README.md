@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f23,50:1a1a3e,75:2d1b4e,100:4a1a6b&height=360&section=header&text=Franklin%20Dantas&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20|%20Engenheiro%20de%20Ia/Dados%20&descAlignY=55&descSize=36"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f23,50:1a1a3e,75:2d1b4e,100:4a1a6b&height=360&section=header&text=Franklin%20Dantas&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20|%20Engenheiro%20de%20IA/Dados&descAlignY=55&descSize=36"/>
 
-<div align="center" style="margin-top:-70px;">
+<div align="center">
+
 <a href="README_us.md">
   <img src="https://img.shields.io/badge/🇺🇸_ENGLISH-7c3aed?style=for-the-badge&labelColor=4c1d95"/>
 </a>
@@ -11,70 +12,78 @@
   <img src="https://img.shields.io/badge/🇧🇷_PORTUGUÊS-a855f7?style=for-the-badge&labelColor=6d28d9"/>
 </a>
 
+<br/><br/>
+
 <!-- Badges section -->
-<div align="center" style="margin-top:-0px; margin-bottom:600px;">
-  <a href="https://github.com/Franklin-Dantas?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Franklin-Dantas?color=7c3aed&style=for-the-badge&labelColor=5b21b6&logo=star"/>
-  </a>
-  <a href="https://github.com/Franklin-Dantas?tab=followers">
-    <img alt="Followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Franklin-Dantas?color=8b5cf6&labelColor=6d28d9&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=Franklin-Dantas">
-    <img alt="Profile Views" title="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=Franklin-Dantas&color=blueviolet&style=for-the-badge&label=VIEWS"/>
-  </a>
-</p>
+<a href="https://github.com/Franklin-Dantas?tab=repositories&sort=stargazers">
+  <img alt="Total Stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Franklin-Dantas?color=7c3aed&style=for-the-badge&labelColor=5b21b6&logo=star"/>
+</a>
+<a href="https://github.com/Franklin-Dantas?tab=followers">
+  <img alt="Followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Franklin-Dantas?color=8b5cf6&labelColor=6d28d9&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+<a href="https://komarev.com/ghpvc/?username=Franklin-Dantas">
+  <img alt="Profile Views" title="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=Franklin-Dantas&color=blueviolet&style=for-the-badge&label=VIEWS"/>
+</a>
 
-<br/>
-
-<br/>
+<br/><br/>
 
 <!-- Astronaut GIF -->
-<div align="center" style="margin-top:-70px;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2Y2x6NHB5MnBxdWt3OGJ6bXB3NnJhcXBocWV4YnE3N3RzYnFyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" alt="Astronaut"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2Y2x6NHB5MnBxdWt3OGJ6bXB3NnJhcXBocWV4YnE3N3RzYnFyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="280" alt="Astronaut"/>
+
 </div>
 
 ##
 
 <!-- About Me Section -->
-<details align="center open> 
+<details open> 
   <summary><h2>🧑‍🚀 Sobre Mim</h2></summary>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=6000&pause=2000&color=9745F5&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Franklin+Dantas;Desenvolvedor+Full-Stack;Especialista+em+Dados;Recife%2C+PE+-+Brasil+)](https://git.io/typing-svg)
+<div align="center">
 
-<img align="right"
-  width="320" 
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJxY2psMXRoaXQ5aW9hZW9jdWZ5dWd5eXNhcnVtYmxoNWFuYnlkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-  alt="Coding"
-/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=6000&pause=2000&color=9745F5&center=true&vCenter=true&random=false&width=700&lines=Olá%2C+meu+nome+é+Franklin+Dantas;Desenvolvedor+Full-Stack;Especialista+em+Dados;Recife%2C+PE+-+Brasil)](https://git.io/typing-svg)
+
+</div>
 
 <table>
-  <tr>
-    <td width="48%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-<div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJxY2psMXRoaXQ5aW9hZW9jdWZ5dWd5eXNhcnVtYmxoNWFuYnlkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding"/>
+
+</td>
+<td width="50%" valign="top">
 
 ```js
-const FranklinDantas = {
-  localização: "Recife, PE - Brasil",
-  formação: "Ciência da Computação - UNICAP",
-  foco: ["IA", "Dev. Full-Stack", "Engenharia de dados"],
+const franklin = {
+  local: "Recife, PE - Brasil",
+  formação: "Ciência da Computação",
+  foco: [
+    "IA",
+    "Full-Stack Dev",
+    "Engenharia de Dados"
+  ],
   conquistas: [
-    "🏆 2º Lugar - NASA SpaceApps Challenge 2022",
-    "🥉 Top 3 - Salto de Excelência 2025"
+    "🏆 2º - NASA SpaceApps 2022",
+    "🥉 Top 3 - Salto Excelência"
   ],
   idiomas: {
-    português: "Nativo",
-    inglês: "Avançado",
-    espanhol: "Avançado"
-  },
-  missão: "Usar tecnologia para gerar impacto social"
+    pt: "Nativo",
+    en: "Avançado",
+    es: "Avançado"
+  }
 };
 ```
+
+</td>
+</tr>
+</table>
+
+</details>
 
 ##
 
 <!-- Achievements Section -->
-<details   align="center" open>
+<details open>
   <summary><h2>🏆 Conquistas & Projetos</h2></summary>
   
   <table>
@@ -105,7 +114,7 @@ const FranklinDantas = {
 
 <!-- Stats Section -->
 <details open> 
-  <summary><h2>Estatísticas & Atividade</h2></summary>
+  <summary><h2>📊 Estatísticas & Atividade</h2></summary>
 
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -116,43 +125,19 @@ const FranklinDantas = {
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Franklin-Dantas&custom_title=Gráfico%20de%20Contribuições%20de%20Franklin&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area_color=6D28D9&area=true&hide_border=true"/>
   </a>
+
 </details>
-
-  <!--<h3>⚡ Atividade Recente no GitHub</h3>
-  <!--
-  <!-- START_SECTION:activity-->
-  <!-- Activity will be auto-updated by GitHub Action -->
-  <!-- END_SECTION:activity-->
-
-<!--</details>
-
-<!-- Featured Projects Section - COMMENTED FOR FUTURE USE -->
-<!--
-<details open>
-  <summary><h2>📘 Projetos em Destaque</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/Franklin-Dantas/REPO_NAME"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Franklin-Dantas&repo=REPO_NAME&theme=react&bg_color=0d1117&title_color=A855F7&hide_border=true&icon_color=8b5cf6&show_icons=true&border_color=1a1a3e" alt="repo"></a>
-    <a href="https://github.com/Franklin-Dantas/REPO_NAME_2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Franklin-Dantas&repo=REPO_NAME_2&theme=react&bg_color=0d1117&title_color=A855F7&hide_border=true&icon_color=8b5cf6&show_icons=true&border_color=1a1a3e" alt="repo"></a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/Franklin-Dantas?tab=repositories&sort=stargazers"><img alt="All Repositories" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20os%20Repositórios-7c3aed?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  </p>
-</details>
--->
 
 ##
+
 <!-- Skills Section -->
 <details open>
-  <summary><h2>Habilidades Técnicas</h2></summary>
+  <summary><h2>🚀 Habilidades Técnicas</h2></summary>
 
   <!-- ================= CORE SKILLS ================= -->
-<h3 style = " color: #62b0ffff; afont-size: 2rem;">
-Core Skills
-</h3>
+  <h3>💎 Core Skills</h3>
   <p>
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=database&logoColor=A855F7"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=A855F7"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
     <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=A855F7"></a>
     <a href="#"><img alt="ETL" src="https://img.shields.io/badge/ETL-0d1117?style=for-the-badge&logo=apache-spark&logoColor=A855F7"></a>
@@ -163,9 +148,7 @@ Core Skills
   </p>
 
   <!-- ================= INTELIGÊNCIA ARTIFICIAL ================= -->
-<h3 style =" color: #62b0ffff; afont-size: 2rem;">
-Inteligência Artificial
-</h3>
+  <h3>🤖 Inteligência Artificial</h3>
   <p>
     <a href="#"><img alt="LLM" src="https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=9333ea"></a>
     <a href="#"><img alt="SLM" src="https://img.shields.io/badge/SLM-0d1117?style=for-the-badge&logo=googlebard&logoColor=9333ea"></a>
@@ -176,13 +159,11 @@ Inteligência Artificial
     <a href="#"><img alt="Supervised Learning" src="https://img.shields.io/badge/Supervised%20Learning-0d1117?style=for-the-badge&logo=databricks&logoColor=8b5cf6"></a>
     <a href="#"><img alt="Unsupervised Learning" src="https://img.shields.io/badge/Unsupervised%20Learning-0d1117?style=for-the-badge&logo=apache-spark&logoColor=8b5cf6"></a>
   </p>
-
   <p>
     <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=6d28d9"></a>
     <a href="#"><img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=6d28d9"></a>
     <a href="#"><img alt="Speech Processing" src="https://img.shields.io/badge/Speech%20Processing-0d1117?style=for-the-badge&logo=googleassistant&logoColor=6d28d9"></a>
   </p>
-
   <p>
     <a href="#"><img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=langchain&logoColor=A855F7"></a>
     <a href="#"><img alt="Multi-Agent Systems" src="https://img.shields.io/badge/Multi--Agent%20Systems-0d1117?style=for-the-badge&logo=apache-kafka&logoColor=A855F7"></a>
@@ -191,23 +172,19 @@ Inteligência Artificial
   </p>
 
   <!-- ================= LINGUAGENS ================= -->
-  <h3 style =" color: #62b0ffff; afont-size: 2rem;">
-  Linguagens de Programação
-  </h3>
-<p>
+  <h3>💻 Linguagens de Programação</h3>
+  <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=A855F7"></a>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A855F7"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=A855F7"></a>
     <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=A855F7"></a>
     <a href="#"><img alt="Assembly" src="https://img.shields.io/badge/Assembly-0d1117?style=for-the-badge&logo=linux&logoColor=A855F7"></a>
-    <a href="#"><img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-0d1117?style=for-the-badge&logo=google&logoColor=A855F7"></a>
+    <a href="#"><img alt="Google Apps Script" src="https://img.shields.io/badge/Apps%20Script-0d1117?style=for-the-badge&logo=google&logoColor=A855F7"></a>
   </p>
 
   <!-- ================= WEB ================= -->
-  <h3 style =" color: #62b0ffff; afont-size: 2rem;">
-Web & Markup
-</h3>
+  <h3>🌐 Web & Markup</h3>
   <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=A855F7"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=A855F7"></a>
@@ -216,7 +193,7 @@ Web & Markup
   </p>
 
   <!-- ================= FRAMEWORKS ================= -->
-  <h3style="color: #66b3ff;">Frameworks & Bibliotecas</h3>
+  <h3>📚 Frameworks & Bibliotecas</h3>
   <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=A855F7"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=A855F7"></a>
@@ -228,10 +205,7 @@ Web & Markup
   </p>
 
   <!-- ================= DATABASE & CLOUD ================= -->
-  
-<h3 style =" color: #62b0ffff; afont-size: 2rem;">
-Banco de Dados & Cloud
-</h3>
+  <h3>☁️ Banco de Dados & Cloud</h3>
   <p>
     <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=A855F7"></a>
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=A855F7"></a>
@@ -246,11 +220,8 @@ Banco de Dados & Cloud
   </p>
 
   <!-- ================= TOOLS ================= -->
-  
-<h3 style =" color: #62b0ffff; afont-size: 2rem;">
-Ferramentas & Ambiente
-</h3>  
-<p>
+  <h3>🛠️ Ferramentas & Ambiente</h3>
+  <p>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=A855F7"></a>
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=A855F7"></a>
     <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7"></a>
@@ -271,25 +242,39 @@ Ferramentas & Ambiente
 ##
 
 <!-- Volunteer Section -->
-<details  open>
-  <summary><h2>Trabalho Voluntário</h2></summary>
+<details open>
+  <summary><h2>🤝 Trabalho Voluntário</h2></summary>
   
-  <br/>
-  
-  |   🎯   | Evento               | Função                             |    Ano    |
-  | :---: | -------------------- | ---------------------------------- | :-------: |
-  |   👨🏻‍💻   | **DSE**              | Monitor técnico de dados           |   2025    |
-  |   🔬   | **SBPC**             | Suporte técnico de equipamentos    |   2025    |
-  |   🚀   | **NASA Space Apps**  | Monitor técnico e de dados         | 2023-2025 |
-  |   📊   | **War Room Teleton** | Time de BI - Análise em tempo real |   2025    |
-  
+  | 🎯 | Evento | Função | Ano |
+  |:--:|--------|--------|:---:|
+  | 👨🏻‍💻 | **DSE** | Monitor técnico de dados | 2025 |
+  | 🔬 | **SBPC** | Suporte técnico de equipamentos | 2025 |
+  | 🚀 | **NASA Space Apps** | Monitor técnico e de dados | 2023-2025 |
+  | 📊 | **War Room Teleton** | Time de BI - Análise em tempo real | 2025 |
   
 </details>
 
 ##
 
-<!-- YouTube Section -->
-<!--<details>
+<!-- Featured Projects Section - COMMENTED FOR FUTURE USE -->
+<!--
+<details open>
+  <summary><h2>📘 Projetos em Destaque</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/Franklin-Dantas/REPO_NAME"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Franklin-Dantas&repo=REPO_NAME&theme=react&bg_color=0d1117&title_color=A855F7&hide_border=true&icon_color=8b5cf6&show_icons=true&border_color=1a1a3e" alt="repo"></a>
+    <a href="https://github.com/Franklin-Dantas/REPO_NAME_2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Franklin-Dantas&repo=REPO_NAME_2&theme=react&bg_color=0d1117&title_color=A855F7&hide_border=true&icon_color=8b5cf6&show_icons=true&border_color=1a1a3e" alt="repo"></a>
+  </p>
+
+  <p align="left">
+    <a href="https://github.com/Franklin-Dantas?tab=repositories&sort=stargazers"><img alt="All Repositories" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20os%20Repositórios-7c3aed?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  </p>
+</details>
+-->
+
+<!-- YouTube Section - COMMENTED FOR FUTURE USE -->
+<!--
+<details>
   <summary><h2>🎬 Últimos Vídeos do YouTube</h2></summary>
 
   <br/>
@@ -303,18 +288,13 @@ Ferramentas & Ambiente
     </a>
   </p>
 
-  <!-- YOUTUBE-CARDS -->
-  <!-- YouTube cards will be auto-generated by GitHub Action -->
-  <!--<p align="center">
+  <p align="center">
     <a href="https://www.youtube.com/channel/UCzwYz3UcZ1BhwdulCzrxIFA">
       <img src="https://img.shields.io/badge/Ver%20Canal-YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube Channel"/>
     </a>
   </p>
-  <!-- YOUTUBE-CARDS -->
-
-<!--</details>
-
-##
+</details>
+-->
 
 <!-- Sponsors Section - COMMENTED FOR FUTURE USE -->
 <!--
@@ -351,15 +331,20 @@ Ferramentas & Ambiente
 </details>
 -->
 
-<!-- Snake Animation -->
-<!--<div align="center">
-  <h2>Minhas Contribuições</h2>
+<!-- Snake Animation - COMMENTED FOR FUTURE USE -->
+<!--
+<div align="center">
+  <h2>🐍 Minhas Contribuições</h2>
   <img src="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
+##
+-->
+
 <!-- Connect Section -->
 <div align="center">
-  <h2>Conecte-se Comigo</h2>
+  <h2>🌐 Conecte-se Comigo</h2>
+  
   <a href="https://www.linkedin.com/in/franklin-dantas1998/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/>
   </a>
@@ -382,7 +367,7 @@ Ferramentas & Ambiente
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="400" alt="Star"/>
   <br/>
-  <sub>Se você gostou do que viu, deixe uma estrela e segue meus perfis!</sub>
+  <sub>⭐ Se você gostou do que viu, deixe uma estrela e segue meus perfis!</sub>
   <br/><br/>
 </div>
 
