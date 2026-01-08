@@ -1,10 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f23,50:1a1a3e,75:2d1b4e,100:4a1a6b&height=360&section=header&text=Franklin%20Dantas&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20|%20Engenheiro%20de%20Ia/Dados%20&descAlignY=55&descSize=36"/>
 
-<div align="center">
-
-[![English](https://img.shields.io/badge/🇺🇸_English-0d1117?style=for-the-badge)](README_us.md)
-[![Español](https://img.shields.io/badge/🇪🇸_Español-0d1117?style=for-the-badge)](README_es.md)
-[![Português](https://img.shields.io/badge/🇧🇷_Português-0d1117?style=for-the-badge)](README.md)
+<div align="center" style="margin-top:-10px; margin-bottom:10px;">
+<a href="README_us.md">
+  <img src="https://img.shields.io/badge/🇺🇸_ENGLISH-7c3aed?style=for-the-badge&labelColor=4c1d95"/>
+</a>
+<a href="README_es.md">
+  <img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-8b5cf6?style=for-the-badge&labelColor=5b21b6"/>
+</a>
+<a href="README.md">
+  <img src="https://img.shields.io/badge/🇧🇷_PORTUGUÊS-a855f7?style=for-the-badge&labelColor=6d28d9"/>
+</a>
 
 <!-- Badges section -->
 <p align="center">
@@ -284,7 +289,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="400" alt="Star"/>
   <br/>
-  <sub>Se você gostou do que viu, deixe uma estrela nos meus repositórios!</sub>
+  <sub>Se você gostou do que viu, deixe uma estrela e segue meus perfis!</sub>
   <br/><br/>
 </div>
 
