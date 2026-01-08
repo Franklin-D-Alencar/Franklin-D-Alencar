@@ -262,7 +262,6 @@
 <!-- Connect Section -->
 <div align="center">
   <h2>Conecte-se Comigo</h2>
-  
   <a href="https://www.linkedin.com/in/franklin-dantas1998/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/>
   </a>
