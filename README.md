@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f23,50:1a1a3e,75:2d1b4e,100:4a1a6b&height=180&section=header&text=Franklin%20Dantas&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Data%20Specialist%20&descAlignY=55&descSize=18"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=6000&pause=2000&color=9745F5&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Franklin+Dantas+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%F0%9F%9A%80;Especialista+em+Dados+%F0%9F%93%8A;Recife%2C+PE+-+Brasil+)](https://git.io/typing-svg)
+
 <div align="center">
 
 [![English](https://img.shields.io/badge/🇺🇸_English-0d1117?style=for-the-badge)](README_us.md)
