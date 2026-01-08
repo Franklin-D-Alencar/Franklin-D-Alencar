@@ -104,6 +104,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Franklin-Dantas&custom_title=Gráfico%20de%20Contribuições%20de%20Franklin&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area_color=6D28D9&area=true&hide_border=true"/>
   </a>
+</details>
 
   <!--<h3>⚡ Atividade Recente no GitHub</h3>
   <!--
@@ -173,15 +174,17 @@
 
 <!-- Volunteer Section -->
 <details  open>
-  <summary><h2>🤝 Trabalho Voluntário</h2></summary>
+  <summary><h2>Trabalho Voluntário</h2></summary>
   
   <br/>
   
   | 🎯 | Evento | Função | Ano |
   |:--:|--------|--------|:---:|
+  | 👨🏻‍💻 | **DSE** | Monitor técnico de dados | 2025 |
+  | 🔬 | **SBPC** | Suporte técnico de equipamentos | 2025 |
   | 🚀 | **NASA Space Apps** | Monitor técnico e de dados | 2023-2025 |
   | 📊 | **War Room Teleton** | Time de BI - Análise em tempo real | 2025 |
-  | 🔬 | **SBPC** | Suporte técnico de equipamentos | 2025 |
+  
   
 </details>
 
