@@ -43,12 +43,10 @@
 
 <img 
   align="right" 
-  width="420" 
+  width="380" 
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJxY2psMXRoaXQ5aW9hZW9jdWZ5dWd5eXNhcnVtYmxoNWFuYnlkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
   alt="Coding"
 />
-
-
 <table>
   <tr>
     <td width="48%" valign="top">
