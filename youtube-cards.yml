@@ -1,0 +1,44 @@
+# GitHub Readme YouTube Cards
+# Auto-generates cards for your latest YouTube videos
+
+name: Update YouTube Cards
+
+on:
+  # Runs every hour
+  schedule:
+    - cron: "0 * * * *"
+  
+  # Run when workflow file is modified
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/youtube-cards.yml"
+  
+  # Allows manual trigger from Actions tab
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update YouTube Cards
+        uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCzwYz3UcZ1BhwdulCzrxIFA
+          comment_tag_name: YOUTUBE-CARDS
+          max_title_lines: 2
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
+          output_type: html
+          card_width: 250
+          background_color: "#0d1117"
+          title_color: "#A855F7"
+          stats_color: "#8B5CF6"
+          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#7c3aed", "stats_color": "#6d28d9" }'
+          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#A855F7", "stats_color": "#8B5CF6" }'

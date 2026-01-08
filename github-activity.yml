@@ -1,0 +1,30 @@
+# GitHub Activity Readme - Auto-update recent activity
+# Updates your README with your latest GitHub activity
+
+name: Update GitHub Activity
+
+on:
+  # Runs daily at 9 PM UTC
+  schedule:
+    - cron: "0 21 * * *"
+  
+  # Allows manual trigger from Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update GitHub Activity
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '⚡ Update README with recent GitHub activity'
+          MAX_LINES: 5
