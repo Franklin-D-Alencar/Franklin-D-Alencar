@@ -52,7 +52,7 @@
       inglês: "Avançado",
       espanhol: "Avançado"
     },
-    missão: "Usar tecnologia para gerar impacto social 🚀"
+    missão: "Usar tecnologia para gerar impacto social"
   };
   ```
 
@@ -91,6 +91,30 @@
 
 ##
 
+<!-- Stats Section -->
+<details open> 
+  <summary><h2>Estatísticas & Atividade</h2></summary>
+
+  <h3>Streak Stats</h3>
+  
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Minha sequência de contribuições" alt="Franklin's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Franklin-Dantas&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=8B5CF6&fire=A855F7&currStreakNum=FFFFFF&sideNums=A855F7&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=888888"/>
+    </a>
+  </p>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Franklin-Dantas&custom_title=Gráfico%20de%20Contribuições%20de%20Franklin&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area_color=6D28D9&area=true&hide_border=true"/>
+  </a>
+
+  <!--<h3>⚡ Atividade Recente no GitHub</h3>
+  <!--
+  <!-- START_SECTION:activity-->
+  <!-- Activity will be auto-updated by GitHub Action -->
+  <!-- END_SECTION:activity-->
+
+<!--</details>
+
 <!-- Featured Projects Section - COMMENTED FOR FUTURE USE -->
 <!--
 <details open>
@@ -106,22 +130,6 @@
   </p>
 </details>
 -->
-
-##
-
-<!-- Volunteer Section -->
-<details>
-  <summary><h2>🤝 Trabalho Voluntário</h2></summary>
-  
-  <br/>
-  
-  | 🎯 | Evento | Função | Ano |
-  |:--:|--------|--------|:---:|
-  | 🚀 | **NASA Space Apps** | Monitor técnico e de dados | 2023-2025 |
-  | 📊 | **War Room Teleton** | Time de BI - Análise em tempo real | 2025 |
-  | 🔬 | **SBPC** | Suporte técnico de equipamentos | 2025 |
-  
-</details>
 
 ##
 
@@ -165,29 +173,19 @@
 
 ##
 
-<!-- Stats Section -->
-<details open> 
-  <summary><h2>Estatísticas & Atividade</h2></summary>
-
-  <h3>Streak Stats</h3>
+<!-- Volunteer Section -->
+<details  open>
+  <summary><h2>🤝 Trabalho Voluntário</h2></summary>
   
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Minha sequência de contribuições" alt="Franklin's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Franklin-Dantas&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A855F7&ring=8B5CF6&fire=A855F7&currStreakNum=FFFFFF&sideNums=A855F7&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=888888"/>
-    </a>
-  </p>
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Franklin-Dantas&custom_title=Gráfico%20de%20Contribuições%20de%20Franklin&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area_color=6D28D9&area=true&hide_border=true"/>
-  </a>
-
-  <!--<h3>⚡ Atividade Recente no GitHub</h3>
-  <!--
-  <!-- START_SECTION:activity-->
-  <!-- Activity will be auto-updated by GitHub Action -->
-  <!-- END_SECTION:activity-->
-
-<!--</details>
+  <br/>
+  
+  | 🎯 | Evento | Função | Ano |
+  |:--:|--------|--------|:---:|
+  | 🚀 | **NASA Space Apps** | Monitor técnico e de dados | 2023-2025 |
+  | 📊 | **War Room Teleton** | Time de BI - Análise em tempo real | 2025 |
+  | 🔬 | **SBPC** | Suporte técnico de equipamentos | 2025 |
+  
+</details>
 
 ##
 
@@ -266,7 +264,7 @@
 
 <!-- Connect Section -->
 <div align="center">
-  <h2>🌐 Conecte-se Comigo</h2>
+  <h2>Conecte-se Comigo</h2>
   
   <a href="https://www.linkedin.com/in/franklin-dantas1998/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/>
@@ -293,7 +291,7 @@
   <sub>Se você gostou do que viu, deixe uma estrela nos meus repositórios!</sub>
   
   <br/><br/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="700" alt="Star"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="400" alt="Star"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1a6b,25:2d1b4e,50:1a1a3e,75:0f0f23,100:000000&height=120&section=footer"/>
