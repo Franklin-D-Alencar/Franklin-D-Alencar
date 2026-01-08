@@ -341,26 +341,49 @@ const franklin = {
 ##
 -->
 
-<!-- Connect Section -->
-<div align="center">
-  <h2>Conecte-se Comigo</h2>
+1. Trabalho Voluntário - Tabela expandida:
+html<!-- Volunteer Section -->
+<details open>
+  <summary><h2>🤝 Trabalho Voluntário</h2></summary>
   
-  <a href="https://www.linkedin.com/in/franklin-dantas1998/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/franklin.a.d/">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram"/>
-  </a>
-  <a href="mailto:jfranklin.a.d@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Gmail"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCzwYz3UcZ1BhwdulCzrxIFA">
-    <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=A855F7" alt="YouTube"/>
-  </a>
-  <a href="https://github.com/Franklin-Dantas">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub"/>
-  </a>
-</div>
+  <table width="100%">
+    <thead>
+      <tr>
+        <th>🎯</th>
+        <th>Evento</th>
+        <th>Função</th>
+        <th>Ano</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">👨🏻‍💻</td>
+        <td align="center"><b>DSE</b></td>
+        <td align="center">Monitor técnico de dados</td>
+        <td align="center">2025</td>
+      </tr>
+      <tr>
+        <td align="center">🔬</td>
+        <td align="center"><b>SBPC</b></td>
+        <td align="center">Suporte técnico de equipamentos</td>
+        <td align="center">2025</td>
+      </tr>
+      <tr>
+        <td align="center">🚀</td>
+        <td align="center"><b>NASA Space Apps</b></td>
+        <td align="center">Monitor técnico e de dados</td>
+        <td align="center">2023-2025</td>
+      </tr>
+      <tr>
+        <td align="center">📊</td>
+        <td align="center"><b>War Room Teleton</b></td>
+        <td align="center">Time de BI - Análise em tempo real</td>
+        <td align="center">2025</td>
+      </tr>
+    </tbody>
+  </table>
+  
+</details>
 
 ##
 
