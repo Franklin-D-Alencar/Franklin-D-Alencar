@@ -253,8 +253,42 @@ const franklin = {
   | 📊 | **War Room Teleton** | Time de BI - Análise em tempo real | 2025 |
   
 </details>
+<!-- Connect Section -->
+##
+<div align="center">
+  <h2>Conecte-se Comigo</h2>
+  
+  <a href="https://www.linkedin.com/in/franklin-dantas1998/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/franklin.a.d/">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:jfranklin.a.d@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/channel/UCzwYz3UcZ1BhwdulCzrxIFA">
+    <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Franklin-Dantas">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  </a>
+</div>
 
 ##
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="400" alt="Star"/>
+  <br/>
+  <sub>⭐ Se você gostou do que viu, deixe uma estrela e segue meus perfis!</sub>
+  <br/><br/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1a6b,25:2d1b4e,50:1a1a3e,75:0f0f23,100:000000&height=240&section=footer"/>
 
 <!-- Featured Projects Section - COMMENTED FOR FUTURE USE -->
 <!--
@@ -338,58 +372,5 @@ const franklin = {
   <img src="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-##
+
 -->
-<!-- Volunteer Section -->
-<details open>
-  <summary><h2>🤝 Trabalho Voluntário</h2></summary>
-  
-  <table width="100%">
-    <thead>
-      <tr>
-        <th>🎯</th>
-        <th>Evento</th>
-        <th>Função</th>
-        <th>Ano</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">👨🏻‍💻</td>
-        <td align="center"><b>DSE</b></td>
-        <td align="center">Monitor técnico de dados</td>
-        <td align="center">2025</td>
-      </tr>
-      <tr>
-        <td align="center">🔬</td>
-        <td align="center"><b>SBPC</b></td>
-        <td align="center">Suporte técnico de equipamentos</td>
-        <td align="center">2025</td>
-      </tr>
-      <tr>
-        <td align="center">🚀</td>
-        <td align="center"><b>NASA Space Apps</b></td>
-        <td align="center">Monitor técnico e de dados</td>
-        <td align="center">2023-2025</td>
-      </tr>
-      <tr>
-        <td align="center">📊</td>
-        <td align="center"><b>War Room Teleton</b></td>
-        <td align="center">Time de BI - Análise em tempo real</td>
-        <td align="center">2025</td>
-      </tr>
-    </tbody>
-  </table>
-  
-</details>
-
-##
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="400" alt="Star"/>
-  <br/>
-  <sub>⭐ Se você gostou do que viu, deixe uma estrela e segue meus perfis!</sub>
-  <br/><br/>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1a6b,25:2d1b4e,50:1a1a3e,75:0f0f23,100:000000&height=240&section=footer"/>
