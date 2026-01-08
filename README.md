@@ -170,7 +170,7 @@ const franklin = {
     <a href="#"><img alt="RAG" src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=A855F7"></a>
     <a href="#"><img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=A855F7"></a>
   </p>
-
+  
   <!-- ================= LINGUAGENS ================= -->
   <h3>Linguagens de Programação</h3>
   <p>
