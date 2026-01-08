@@ -286,7 +286,7 @@
 ##
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="1000" alt="Star"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="700" alt="Star"/>
   
   <br/>
   
