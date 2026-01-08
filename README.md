@@ -59,49 +59,6 @@
 
 ##
 
-<!-- Experience Section -->
-<details open>
-  <summary><h2>💼 Experiência Profissional</h2></summary>
-
-  <table>
-    <tr>
-      <td>📊</td>
-      <td><b>Estagiário em Análise de Dados</b></td>
-      <td>UNICAP - Polo Tecnológico</td>
-      <td><code>Jul/2023 - Jul/2025</code></td>
-    </tr>
-    <tr>
-      <td colspan="4">
-        <sub>SQL • Python • Power BI • ETL • TOTVS • Dashboards • Documentação Técnica</sub>
-      </td>
-    </tr>
-    <tr>
-      <td>💻</td>
-      <td><b>Desenvolvedor Full-Stack Jr</b></td>
-      <td>Denzel Eventos (Freelance)</td>
-      <td><code>Freelance</code></td>
-    </tr>
-    <tr>
-      <td colspan="4">
-        <sub>Node.js • React • SQL Server • Tailwind CSS • Azure • Git</sub>
-      </td>
-    </tr>
-    <tr>
-      <td>📋</td>
-      <td><b>Estagiário em Análise de Requisitos</b></td>
-      <td>Árvore Consultoria</td>
-      <td><code>Set/2019 - Mar/2020</code></td>
-    </tr>
-    <tr>
-      <td colspan="4">
-        <sub>Levantamento de Requisitos • Prototipação • MVPs • Testes</sub>
-      </td>
-    </tr>
-  </table>
-</details>
-
-##
-
 <!-- Achievements Section -->
 <details open>
   <summary><h2>🏆 Conquistas & Projetos</h2></summary>
@@ -158,8 +115,8 @@
   
   | 🎯 | Evento | Função | Ano |
   |:--:|--------|--------|:---:|
-  | 📊 | **War Room Teleton** | Time de BI - Análise em tempo real | 2025 |
   | 🚀 | **NASA Space Apps** | Monitor técnico e de dados | 2023-2025 |
+  | 📊 | **War Room Teleton** | Time de BI - Análise em tempo real | 2025 |
   | 🔬 | **SBPC** | Suporte técnico de equipamentos | 2025 |
   
 </details>
@@ -168,9 +125,9 @@
 
 <!-- Skills Section -->
 <details open>
-  <summary><h2>🚀 Habilidades Técnicas</h2></summary>
+  <summary><h2>Habilidades Técnicas</h2></summary>
 
-  <h3>💎 Core Skills</h3>
+  <h3>Core Skills</h3>
   
   <p>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=A855F7"></a>
@@ -181,7 +138,7 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=A855F7"></a>
   </p>
 
-  <h3>🛠️ Ferramentas & Tecnologias</h3>
+  <h3>Ferramentas & Tecnologias</h3>
 
   <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=8b5cf6"></a>
@@ -192,7 +149,7 @@
     <a href="#"><img alt="TOTVS" src="https://img.shields.io/badge/TOTVS-0d1117?style=for-the-badge&logoColor=8b5cf6"></a>
   </p>
 
-  <h3>📚 Outros Conhecimentos</h3>
+  <h3>Outros Conhecimentos</h3>
 
   <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=6d28d9"></a>
@@ -208,9 +165,9 @@
 
 <!-- Stats Section -->
 <details open> 
-  <summary><h2>📊 Estatísticas & Atividade</h2></summary>
+  <summary><h2>Estatísticas & Atividade</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h3>Streak Stats</h3>
   
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -218,39 +175,22 @@
     </a>
   </p>
 
-  <h3>💻 GitHub Stats</h3>
-
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Franklin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Franklin-Dantas&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=FFFFFF" height="180px"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Franklin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin-Dantas&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=FFFFFF" height="180px"/>
-    </a>
-  </p>
-  
-  <p align="center">
-    <sub><b>Nota:</b> Top Languages mostra apenas as linguagens do código público e não reflete experiência ou nível de habilidade.</sub>
-  </p>
-
-  <h3>📈 Gráfico de Contribuições</h3>
-
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Franklin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Franklin-Dantas&custom_title=Gráfico%20de%20Contribuições%20de%20Franklin&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area_color=6D28D9&area=true&hide_border=true"/>
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Franklin-Dantas&custom_title=Gráfico%20de%20Contribuições%20de%20Franklin&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area_color=6D28D9&area=true&hide_border=true"/>
   </a>
 
-  <h3>⚡ Atividade Recente no GitHub</h3>
-
-  <!--START_SECTION:activity-->
+  <!--<h3>⚡ Atividade Recente no GitHub</h3>
+  <!--
+  <!-- START_SECTION:activity-->
   <!-- Activity will be auto-updated by GitHub Action -->
-  <!--END_SECTION:activity-->
+  <!-- END_SECTION:activity-->
 
-</details>
+<!--</details>
 
 ##
 
 <!-- YouTube Section -->
-<details>
+<!--<details>
   <summary><h2>🎬 Últimos Vídeos do YouTube</h2></summary>
 
   <br/>
@@ -266,14 +206,14 @@
 
   <!-- YOUTUBE-CARDS -->
   <!-- YouTube cards will be auto-generated by GitHub Action -->
-  <p align="center">
+  <!--<p align="center">
     <a href="https://www.youtube.com/channel/UCzwYz3UcZ1BhwdulCzrxIFA">
       <img src="https://img.shields.io/badge/Ver%20Canal-YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube Channel"/>
     </a>
   </p>
   <!-- YOUTUBE-CARDS -->
 
-</details>
+<!--</details>
 
 ##
 
@@ -315,8 +255,8 @@
 ##
 
 <!-- Snake Animation -->
-<div align="center">
-  <h2>🐍 Minhas Contribuições</h2>
+<!--<div align="center">
+  <h2>Minhas Contribuições</h2>
   <img src="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
@@ -346,11 +286,11 @@
 ##
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBtdmZ6cHQ2MjNqYTJ0dW15eGhwdXdlNHRpbDh4d2xxb2plcGlwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNQ03J5JxX6lva/giphy.gif" width="100" alt="Star"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="1000" alt="Star"/>
   
   <br/>
   
-  <sub>⭐ Se você gostou do que viu, deixe uma estrela nos meus repositórios!</sub>
+  <sub>Se você gostou do que viu, deixe uma estrela nos meus repositórios!</sub>
   
   <br/><br/>
   
