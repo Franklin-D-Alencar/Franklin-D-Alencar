@@ -16,21 +16,6 @@
 
 ##
 
-<div align="center">
-
-### 🏆 Meu Status
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franklin-Dantas&show_icons=true&theme=midnight-purple&bg_color=0d1117&border_color=1a1b6c&icon_color=9745f5&title_color=9745f5&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin-Dantas&layout=compact&theme=midnight-purple&bg_color=0d1117&border_color=1a1b6c&title_color=9745f5&text_color=ffffff"/>
-
-</div>
-
-##
-
-<div align="center">
-
-### 📈 Gráfico de Contribuição
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Franklin-Dantas&custom_title=Grafico%20de%20Contribuicao&bg_color=0d1117&color=9745f5&line=00d9ff&point=ffffff&area_color=1a1b6c&area=true&hide_border=true" width="100%"/>
 
 </div>
@@ -70,9 +55,7 @@
 </div>
 
 ```
-🎓 Ciência da Computação - Universidade Católica de Pernambuco (2020-2025)
-📚 Desenvolvimento Full-Stack - Cubos Academy & Trybe
-📖 Análise e Desenvolvimento de Sistemas - FATECH
+🎓 Ciência da Computação - Universidade Católica de Pernambuco
 ```
 
 ##
@@ -89,22 +72,6 @@
 📊 Criação de dashboards interativos e insights orientados por dados
 🤝 Contribuição para projetos sociais e voluntários
 ```
-
-##
-
-<div align="center">
-
-### 💼 Destaques de Experiência
-
-</div>
-
-```
-📈 Estagiário de Análise de Dados na UNICAP - Polo Tecnológico
-💻 Desenvolvedor Full-Stack na Denzel Eventos (Freelance)
-📋 Estagiário de Análise de Requisitos na Árvore Consultoria
-🤝 Voluntário na War Room Teleton 2025, NASA SpaceApps, SBPC
-```
-
 ##
 
 <div align="center">
