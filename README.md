@@ -286,7 +286,7 @@
 ##
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="300" alt="Star"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="700" alt="Star"/>
   
   <br/>
   
@@ -294,5 +294,7 @@
   
   <br/><br/>
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20tecnologia%20move%20o%20mundo%2C%20mas%20são%20as%20pessoas%20que%20movem%20a%20tecnologia.&author=Franklin%20Dantas" alt="Quote"/>
+  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1a6b,25:2d1b4e,50:1a1a3e,75:0f0f23,100:000000&height=120&section=footer"/>
