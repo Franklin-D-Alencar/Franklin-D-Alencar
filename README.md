@@ -3,17 +3,16 @@
 <div align="center">
 
 <a href="README_us.md">
-  <img height="52" src="https://img.shields.io/badge/🇺🇸_ENGLISH-7c3aed?style=for-the-badge&labelColor=4c1d95"/>
+  <img src="https://img.shields.io/badge/🇺🇸_ENGLISH-7c3aed?style=for-the-badge&labelColor=4c1d95"/>
 </a>
 <a href="README_es.md">
-  <img height="52" src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-8b5cf6?style=for-the-badge&labelColor=5b21b6"/>
+  <img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-8b5cf6?style=for-the-badge&labelColor=5b21b6"/>
 </a>
 <a href="README.md">
-  <img height="52" src="https://img.shields.io/badge/🇧🇷_PORTUGUÊS-a855f7?style=for-the-badge&labelColor=6d28d9"/>
+  <img src="https://img.shields.io/badge/🇧🇷_PORTUGUÊS-a855f7?style=for-the-badge&labelColor=6d28d9"/>
 </a>
 
 <br/><br/>
-</div>
 
 <!-- Badges section -->
 <a href="https://github.com/Franklin-Dantas?tab=repositories&sort=stargazers">
