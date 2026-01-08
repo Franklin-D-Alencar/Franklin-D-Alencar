@@ -1,14 +1,18 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f23,50:1a1a3e,75:2d1b4e,100:4a1a6b&height=360&section=header&text=Franklin%20Dantas&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20|%20Engenheiro%20de%20IA/Dados&descAlignY=55&descSize=36"/>
+
+<div align="center">
+
 <a href="README_us.md">
-  <img src="https://img.shields.io/badge/🇺🇸_ENGLISH-7c3aed?style=for-the-badge&labelColor=4c1d95&scale=1.5" height="35"/>
+  <img src="https://img.shields.io/badge/🇺🇸_ENGLISH-7c3aed?style=for-the-badge&labelColor=4c1d95"/>
 </a>
 <a href="README_es.md">
-  <img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-8b5cf6?style=for-the-badge&labelColor=5b21b6" height="35"/>
+  <img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-8b5cf6?style=for-the-badge&labelColor=5b21b6"/>
 </a>
 <a href="README.md">
-  <img src="https://img.shields.io/badge/🇧🇷_PORTUGUÊS-a855f7?style=for-the-badge&labelColor=6d28d9" height="35"/>
+  <img src="https://img.shields.io/badge/🇧🇷_PORTUGUÊS-a855f7?style=for-the-badge&labelColor=6d28d9"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Badges section -->
 <a href="https://github.com/Franklin-Dantas?tab=repositories&sort=stargazers">
@@ -18,13 +22,15 @@
   <img alt="Followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Franklin-Dantas?color=8b5cf6&labelColor=6d28d9&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
 <a href="https://komarev.com/ghpvc/?username=Franklin-Dantas">
-  <img alt="Profile Views" title="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=Franklin-Dantas&color=8b5cf6&style=for-the-badge&label=VIEWS"/>
+  <img alt="Profile Views" title="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=Franklin-Dantas&color=blueviolet&style=for-the-badge&label=VIEWS"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Astronaut GIF -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2Y2x6NHB5MnBxdWt3OGJ6bXB3NnJhcXBocWV4YnE3N3RzYnFyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="280" alt="Astronaut"/>
+
+</div>
 
 ##
 
