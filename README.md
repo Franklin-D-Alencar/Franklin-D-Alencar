@@ -136,78 +136,125 @@
 -->
 
 ##
-<!-- ================= SKILLS ================= -->
+<!-- Skills Section -->
 <details open>
   <summary><h2>Habilidades Técnicas</h2></summary>
 
-  <!-- ========= CORE / DADOS ========= -->
-  <div>
-    <h3 style="color:#60a5fa;">Core • Dados & Engenharia</h3>
-    <p>
-      <a href="#"><img alt="ETL" src="https://img.shields.io/badge/ETL-0d1117?style=for-the-badge&logo=apachespark&logoColor=A855F7"></a>
-      <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=A855F7"></a>
-      <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=A855F7"></a>
-    </p>
-  </div>
+  <!-- ================= CORE SKILLS ================= -->
+  <h3>Core Skills</h3>
+  <p>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=database&logoColor=A855F7"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
+    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=A855F7"></a>
+    <a href="#"><img alt="ETL" src="https://img.shields.io/badge/ETL-0d1117?style=for-the-badge&logo=apache-spark&logoColor=A855F7"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=A855F7"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=A855F7"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=A855F7"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=A855F7"></a>
+  </p>
 
-  <!-- ========= IA ========= -->
-  <div>
-    <h3 style="color:#60a5fa;">Inteligência Artificial</h3>
-    <p>
-      <a href="#"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-0d1117?style=for-the-badge&logo=tensorflow&logoColor=A855F7"></a>
-      <a href="#"><img alt="LLM" src="https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=A855F7"></a>
-      <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=A855F7"></a>
-      <a href="#"><img alt="SLM" src="https://img.shields.io/badge/SLM-0d1117?style=for-the-badge&logo=google&logoColor=A855F7"></a>
-    </p>
-    <p>
-      <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=A855F7"></a>
-      <a href="#"><img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=A855F7"></a>
-      <a href="#"><img alt="RAG" src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=A855F7"></a>
-    </p>
-  </div>
+  <!-- ================= INTELIGÊNCIA ARTIFICIAL ================= -->
+  <h3>Inteligência Artificial</h3>
 
-  <!-- ========= BACKEND / FRONTEND ========= -->
-  <div>
-    <h3 style="color:#60a5fa;">Desenvolvimento Web</h3>
-    <p>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=A855F7"></a>
-      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=A855F7"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=A855F7"></a>
-      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=A855F7"></a>
-    </p>
-  </div>
+  <p>
+    <a href="#"><img alt="LLM" src="https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=9333ea"></a>
+    <a href="#"><img alt="SLM" src="https://img.shields.io/badge/SLM-0d1117?style=for-the-badge&logo=googlebard&logoColor=9333ea"></a>
+    <a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=9333ea"></a>
+    <a href="#"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-0d1117?style=for-the-badge&logo=tensorflow&logoColor=9333ea"></a>
+  </p>
 
-  <!-- ========= LINGUAGENS ========= -->
-  <div>
-    <h3 style="color:#60a5fa;">Linguagens de Programação</h3>
-    <p>
-      <a href="#"><img alt="Assembly" src="https://img.shields.io/badge/Assembly-0d1117?style=for-the-badge&logo=linux&logoColor=A855F7"></a>
-      <a href="#"><img alt="C" src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A855F7"></a>
-      <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=A855F7"></a>
-      <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=A855F7"></a>
-      <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=A855F7"></a>
-      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
-    </p>
-  </div>
+  <p>
+    <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=8b5cf6"></a>
+    <a href="#"><img alt="Reinforcement Learning" src="https://img.shields.io/badge/Reinforcement%20Learning-0d1117?style=for-the-badge&logo=deezer&logoColor=8b5cf6"></a>
+    <a href="#"><img alt="Supervised Learning" src="https://img.shields.io/badge/Supervised%20Learning-0d1117?style=for-the-badge&logo=databricks&logoColor=8b5cf6"></a>
+    <a href="#"><img alt="Unsupervised Learning" src="https://img.shields.io/badge/Unsupervised%20Learning-0d1117?style=for-the-badge&logo=apache-spark&logoColor=8b5cf6"></a>
+  </p>
 
-  <!-- ========= CLOUD / DB ========= -->
-  <div>
-    <h3 style="color:#60a5fa;">Banco de Dados & Cloud</h3>
-    <p>
-      <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=A855F7"></a>
-      <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=A855F7"></a>
-      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=A855F7"></a>
-    </p>
-  </div>
+  <p>
+    <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=6d28d9"></a>
+    <a href="#"><img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=6d28d9"></a>
+    <a href="#"><img alt="Speech Processing" src="https://img.shields.io/badge/Speech%20Processing-0d1117?style=for-the-badge&logo=googleassistant&logoColor=6d28d9"></a>
+  </p>
 
-  <!-- ========= AMBIENTE ========= -->
-  <div>
-    <h3 style="color:#60a5fa;">Ferramentas & Ambiente</h3>
-    <p>
-      <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7"></a>
-      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=A855F7"></a>
-    </p>
-  </div>
+  <p>
+    <a href="#"><img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=langchain&logoColor=A855F7"></a>
+    <a href="#"><img alt="Multi-Agent Systems" src="https://img.shields.io/badge/Multi--Agent%20Systems-0d1117?style=for-the-badge&logo=apache-kafka&logoColor=A855F7"></a>
+    <a href="#"><img alt="RAG" src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=A855F7"></a>
+    <a href="#"><img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=A855F7"></a>
+  </p>
+
+  <p>
+    <a href="#"><img alt="MLOps" src="https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=mlflow&logoColor=9333ea"></a>
+    <a href="#"><img alt="Model Deployment" src="https://img.shields.io/badge/Model%20Deployment-0d1117?style=for-the-badge&logo=docker&logoColor=9333ea"></a>
+    <a href="#"><img alt="Model Monitoring" src="https://img.shields.io/badge/Model%20Monitoring-0d1117?style=for-the-badge&logo=grafana&logoColor=9333ea"></a>
+    <a href="#"><img alt="Explainable AI" src="https://img.shields.io/badge/Explainable%20AI-0d1117?style=for-the-badge&logo=ibm&logoColor=9333ea"></a>
+  </p>
+
+  <!-- ================= LINGUAGENS ================= -->
+  <h3>Linguagens de Programação</h3>
+  <p>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=A855F7"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A855F7"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=A855F7"></a>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=A855F7"></a>
+    <a href="#"><img alt="Assembly" src="https://img.shields.io/badge/Assembly-0d1117?style=for-the-badge&logo=linux&logoColor=A855F7"></a>
+    <a href="#"><img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-0d1117?style=for-the-badge&logo=google&logoColor=A855F7"></a>
+  </p>
+
+  <!-- ================= WEB ================= -->
+  <h3>Web & Markup</h3>
+  <p>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=A855F7"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=A855F7"></a>
+    <a href="#"><img alt="SVG + XML" src="https://img.shields.io/badge/SVG%2BXML-0d1117?style=for-the-badge&logo=svg&logoColor=A855F7"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-0d1117?style=for-the-badge&logo=markdown&logoColor=A855F7"></a>
+  </p>
+
+  <!-- ================= FRAMEWORKS ================= -->
+  <h3>Frameworks & Bibliotecas</h3>
+  <p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=A855F7"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=A855F7"></a>
+    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=A855F7"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=A855F7"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=A855F7"></a>
+    <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-0d1117?style=for-the-badge&logo=junit5&logoColor=A855F7"></a>
+    <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=A855F7"></a>
+  </p>
+
+  <!-- ================= DATABASE & CLOUD ================= -->
+  <h3>Banco de Dados & Cloud</h3>
+  <p>
+    <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=A855F7"></a>
+    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=A855F7"></a>
+    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=A855F7"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=A855F7"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=A855F7"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=A855F7"></a>
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=A855F7"></a>
+    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-0d1117?style=for-the-badge&logo=oracle&logoColor=A855F7"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=A855F7"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-0d1117?style=for-the-badge&logo=github&logoColor=A855F7"></a>
+  </p>
+
+  <!-- ================= TOOLS ================= -->
+  <h3>Ferramentas & Ambiente</h3>
+  <p>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=A855F7"></a>
+    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=A855F7"></a>
+    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7"></a>
+    <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=A855F7"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=A855F7"></a>
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-0d1117?style=for-the-badge&logo=github&logoColor=A855F7"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=A855F7"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=A855F7"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-0d1117?style=for-the-badge&logo=googlesheets&logoColor=A855F7"></a>
+    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-0d1117?style=for-the-badge&logo=bitwarden&logoColor=A855F7"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-0d1117?style=for-the-badge&logo=brave&logoColor=A855F7"></a>
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=A855F7"></a>
+    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS-0d1117?style=for-the-badge&logo=obsstudio&logoColor=A855F7"></a>
+  </p>
 
 </details>
 
