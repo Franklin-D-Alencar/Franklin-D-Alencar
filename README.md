@@ -48,12 +48,15 @@
   alt="Coding"
 />
 
+
 <table>
   <tr>
-    <td width="55%">
+    <td width="48%" valign="top">
+
+<div>
 
 ```js
-const franklin = {
+const FranklinDantas = {
   localização: "Recife, PE - Brasil",
   formação: "Ciência da Computação - UNICAP",
   foco: ["IA", "Dev. Full-Stack", "Engenharia de dados"],
