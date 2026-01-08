@@ -41,29 +41,30 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=6000&pause=2000&color=9745F5&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Franklin+Dantas;Desenvolvedor+Full-Stack;Especialista+em+Dados;Recife%2C+PE+-+Brasil+)](https://git.io/typing-svg)
 
-  <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJxY2psMXRoaXQ5aW9hZW9jdWZ5dWd5eXNhcnVtYmxoNWFuYnlkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
+<img 
+  align="right" 
+  width="420" 
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJxY2psMXRoaXQ5aW9hZW9jdWZ5dWd5eXNhcnVtYmxoNWFuYnlkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
+  alt="Coding"
+/>
 
-  ```js
-  const franklin = {
-    localização: "Recife, PE - Brasil",
-    formação: "Ciência da Computação - UNICAP",
-    foco: ["IA", "Dev. Full-Stack", "Engenharia de dados"],
-    conquistas: [
-      "🏆 2º Lugar - NASA SpaceApps Challenge 2022",
-      "🥉 Top 3 - Salto de Excelência 2025"
-    ],
-    idiomas: {
-      português: "Nativo",
-      inglês: "Avançado",
-      espanhol: "Avançado"
-    },
-    missão: "Usar tecnologia para gerar impacto social"
-  };
-  ```
-
-  <br clear="right"/>
-</details>
-
+```js
+const franklin = {
+  localização: "Recife, PE - Brasil",
+  formação: "Ciência da Computação - UNICAP",
+  foco: ["IA", "Dev. Full-Stack", "Engenharia de dados"],
+  conquistas: [
+    "🏆 2º Lugar - NASA SpaceApps Challenge 2022",
+    "🥉 Top 3 - Salto de Excelência 2025"
+  ],
+  idiomas: {
+    português: "Nativo",
+    inglês: "Avançado",
+    espanhol: "Avançado"
+  },
+  missão: "Usar tecnologia para gerar impacto social"
+};
+```
 ##
 
 <!-- Achievements Section -->
@@ -184,8 +185,10 @@ Inteligência Artificial
   </p>
 
   <!-- ================= LINGUAGENS ================= -->
-  <h3style="color: #66b3ff;">Linguagens de Programação</h3>
-  <p>
+  <h3 style =" color: #62b0ffff; afont-size: 2rem;">
+  Linguagens de Programação
+  </h3>
+<p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=A855F7"></a>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A855F7"></a>
@@ -196,7 +199,9 @@ Inteligência Artificial
   </p>
 
   <!-- ================= WEB ================= -->
-  <h3style="color: #66b3ff;">Web & Markup</h3>
+  <h3 style =" color: #62b0ffff; afont-size: 2rem;">
+Web & Markup
+</h3>
   <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=A855F7"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=A855F7"></a>
@@ -217,7 +222,10 @@ Inteligência Artificial
   </p>
 
   <!-- ================= DATABASE & CLOUD ================= -->
-  <h3style="color: #66b3ff;">Banco de Dados & Cloud</h3>
+  
+<h3 style =" color: #62b0ffff; afont-size: 2rem;">
+Banco de Dados & Cloud
+</h3>
   <p>
     <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=A855F7"></a>
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=A855F7"></a>
@@ -232,8 +240,11 @@ Inteligência Artificial
   </p>
 
   <!-- ================= TOOLS ================= -->
-  <h3style="color: #66b3ff;">Ferramentas & Ambiente</h3>
-  <p>
+  
+<h3 style =" color: #62b0ffff; afont-size: 2rem;">
+Ferramentas & Ambiente
+</h3>  
+<p>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=A855F7"></a>
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=A855F7"></a>
     <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7"></a>
