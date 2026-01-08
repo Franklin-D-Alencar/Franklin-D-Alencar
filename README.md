@@ -238,9 +238,8 @@ const franklin = {
   </p>
 
 </details>
-
-##
 <!-- Volunteer Section -->
+<!--
 <details align="center" open>
   <summary><h2>🤝 Trabalho Voluntário</h2></summary>
   <br/>
@@ -248,6 +247,7 @@ const franklin = {
     <img src="https://github-readme-stats.vercel.app/api?username=Franklin-Dantas&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=FFFFFF&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true&disable_animations=true" width="0" height="0"/>
   </div>
 
+<!--
 | 🎯 | Evento | Função | Ano |
 |:---:|:---|:---|:---:|
 | 👨🏻‍💻 | **DSE** | Monitor técnico de dados | `2025` |
@@ -259,8 +259,9 @@ const franklin = {
 
 ##
 
-<!-- Connect Section -->
+--> 
 
+<!-- Connect Section -->
 <div align="center">
   <h2>Conecte-se Comigo</h2>
   
