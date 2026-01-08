@@ -8,7 +8,10 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=6000&pause=2000&color=9745F5&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Franklin+Dantas;Desenvolvedor+Full-Stack;Especialista+em+Dados;Recife%2C+PE+-+Brasil+)](https://git.io/typing-svg)
+<!-- Astronaut GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2Y2x6NHB5MnBxdWt3OGJ6bXB3NnJhcXBocWV4YnE3N3RzYnFyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" alt="Astronaut"/>
+</div>
 
 <!-- Badges section -->
 <p align="center">
@@ -25,17 +28,14 @@
 
 <br/>
 
-<!-- Astronaut GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2Y2x6NHB5MnBxdWt3OGJ6bXB3NnJhcXBocWV4YnE3N3RzYnFyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" alt="Astronaut"/>
-</div>
-
 ##
 
 <!-- About Me Section -->
 <details open> 
   <summary><h2>🧑‍🚀 Sobre Mim</h2></summary>
   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=6000&pause=2000&color=9745F5&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Franklin+Dantas;Desenvolvedor+Full-Stack;Especialista+em+Dados;Recife%2C+PE+-+Brasil+)](https://git.io/typing-svg)
+
   <img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJxY2psMXRoaXQ5aW9hZW9jdWZ5dWd5eXNhcnVtYmxoNWFuYnlkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
 
   ```js
