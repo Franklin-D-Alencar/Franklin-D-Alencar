@@ -2,7 +2,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hola,+mi+nombre+es+Franklin+Dantas;Desarrollador+Full-Stack+🚀;Especialista+en+Análisis+de+Datos+📊;Recife,+PE+-+Brasil+🇧🇷)](https://git.io/typing-svg)
+[![English](https://img.shields.io/badge/🇺🇸_English-0d1117?style=for-the-badge)](README_us.md)
+[![Español](https://img.shields.io/badge/🇪🇸_Español-0d1117?style=for-the-badge)](README_es.md)
+[![Português](https://img.shields.io/badge/🇧🇷_Português-0d1117?style=for-the-badge)](README.md)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=700&lines=Hola%2C+mi+nombre+es+Franklin+Dantas+%F0%9F%91%8B;Desarrollador+Full-Stack+%F0%9F%9A%80;Especialista+en+An%C3%A1lisis+de+Datos+%F0%9F%93%8A;Apasionado+por+SQL+y+Power+BI+%F0%9F%92%A1;Recife%2C+PE+-+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +31,7 @@
 
 ### 👨‍💻 Sobre mí
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Desarrollador" width="150"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Desarrollador" width="300"/>
 
 </div>
 
@@ -188,19 +196,11 @@
 
 <div align="center">
 
-[![English](https://img.shields.io/badge/English-0d1117?style=flat-square)](README_us.md)
-[![Español](https://img.shields.io/badge/Español-0d1117?style=flat-square)](README_es.md)
-[![Português](https://img.shields.io/badge/Português-0d1117?style=flat-square)](README.md)
-
-</div>
-
-##
-
-<div align="center">
-
 ### 👀 Contador de Visitas
 
-<img src="https://profile-counter.glitch.me/{Franklin-Dantas}/count.svg"/>
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Franklin-Dantas&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -208,7 +208,11 @@
 
 <div align="center">
 
-<img src="https://github.com/Franklin-Dantas/Franklin-Dantas/blob/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
