@@ -141,7 +141,7 @@
   <summary><h2>Habilidades Técnicas</h2></summary>
 
   <!-- ================= CORE SKILLS ================= -->
-<h3 style="color: #66b3ff; font-size: 1.5rem;">
+<h3 style="color: #62b0ffff; afont-size: 2rem;">
 Core Skills
 </h3>
   <p>
