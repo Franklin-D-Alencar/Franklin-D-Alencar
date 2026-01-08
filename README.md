@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f23,50:1a1a3e,75:2d1b4e,100:4a1a6b&height=360&section=header&text=Franklin%20Dantas&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20|%20Engenheiro%20de%20Ia/Dados%20&descAlignY=55&descSize=36"/>
 
-<div align="center" style="margin-top:-70px; margin-bottom:100px;">
+<div align="center" style="margin-top:-70px;">
 <a href="README_us.md">
   <img src="https://img.shields.io/badge/🇺🇸_ENGLISH-7c3aed?style=for-the-badge&labelColor=4c1d95"/>
 </a>
@@ -29,7 +29,7 @@
 <br/>
 
 <!-- Astronaut GIF -->
-<div align="center" style="margin-top:-70px; margin-bottom:100px;">
+<div align="center" style="margin-top:-70px;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2Y2x6NHB5MnBxdWt3OGJ6bXB3NnJhcXBocWV4YnE3N3RzYnFyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" alt="Astronaut"/>
 </div>
 
