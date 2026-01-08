@@ -86,7 +86,7 @@ const franklin = {
 <details align="center" open>
   <summary><h2>🏆 Conquistas & Projetos</h2></summary>
   
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/🚀_NASA_SpaceApps_2022-2º_Lugar-7c3aed?style=for-the-badge" alt="NASA"/>
@@ -243,7 +243,7 @@ const franklin = {
 
 <!-- Volunteer Section -->
 <details align="center" open>
-  <summary><h2>🤝 Trabalho Voluntário</h2></summary>
+  <summary align="center"><h2>🤝 Trabalho Voluntário</h2></summary>
   
   | 🎯 | Evento | Função | Ano |
   |:--:|--------|--------|:---:|
