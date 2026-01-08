@@ -141,7 +141,9 @@
   <summary><h2>Habilidades Técnicas</h2></summary>
 
   <!-- ================= CORE SKILLS ================= -->
-<h3 style="color: #66b3ff;">Core SkillsF</h3>
+<h3 style="color: #66b3ff; font-size: 1.5rem;">
+Core Skills
+</h3>
   <p>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=database&logoColor=A855F7"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
@@ -255,12 +257,12 @@
   
   <br/>
   
-  | 🎯 | Evento | Função | Ano |
-  |:--:|--------|--------|:---:|
-  | 👨🏻‍💻 | **DSE** | Monitor técnico de dados | 2025 |
-  | 🔬 | **SBPC** | Suporte técnico de equipamentos | 2025 |
-  | 🚀 | **NASA Space Apps** | Monitor técnico e de dados | 2023-2025 |
-  | 📊 | **War Room Teleton** | Time de BI - Análise em tempo real | 2025 |
+  |   🎯   | Evento               | Função                             |    Ano    |
+  | :---: | -------------------- | ---------------------------------- | :-------: |
+  |   👨🏻‍💻   | **DSE**              | Monitor técnico de dados           |   2025    |
+  |   🔬   | **SBPC**             | Suporte técnico de equipamentos    |   2025    |
+  |   🚀   | **NASA Space Apps**  | Monitor técnico e de dados         | 2023-2025 |
+  |   📊   | **War Room Teleton** | Time de BI - Análise em tempo real |   2025    |
   
   
 </details>
