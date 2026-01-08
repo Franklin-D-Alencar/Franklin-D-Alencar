@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f23,50:1a1a3e,75:2d1b4e,100:4a1a6b&height=360&section=header&text=Franklin%20Dantas&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20|%20Engenheiro%20de%20Ia/Dados%20&descAlignY=55&descSize=36"/>
 
-<div align="center" style="margin-top:-10px; margin-bottom:100px;">
+<div align="center" style="margin-top:-70px; margin-bottom:100px;">
 <a href="README_us.md">
   <img src="https://img.shields.io/badge/🇺🇸_ENGLISH-7c3aed?style=for-the-badge&labelColor=4c1d95"/>
 </a>
@@ -12,7 +12,7 @@
 </a>
 
 <!-- Badges section -->
-<div align="center" style="margin-top:-10px; margin-bottom:600px;">
+<div align="center" style="margin-top:-0px; margin-bottom:600px;">
   <a href="https://github.com/Franklin-Dantas?tab=repositories&sort=stargazers">
     <img alt="Total Stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Franklin-Dantas?color=7c3aed&style=for-the-badge&labelColor=5b21b6&logo=star"/>
   </a>
