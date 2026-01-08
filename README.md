@@ -141,7 +141,7 @@
   <summary><h2>Habilidades Técnicas</h2></summary>
 
   <!-- ================= CORE SKILLS ================= -->
-<h3 style="color: #62b0ffff; afont-size: 2rem;">
+<h3 style = " color: #62b0ffff; afont-size: 2rem;">
 Core Skills
 </h3>
   <p>
@@ -156,7 +156,9 @@ Core Skills
   </p>
 
   <!-- ================= INTELIGÊNCIA ARTIFICIAL ================= -->
-<h3style="color: #66b3ff;">Inteligência Artificial</h3>
+<h3 style =" color: #62b0ffff; afont-size: 2rem;">
+Inteligência Artificial
+</h3>
   <p>
     <a href="#"><img alt="LLM" src="https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=9333ea"></a>
     <a href="#"><img alt="SLM" src="https://img.shields.io/badge/SLM-0d1117?style=for-the-badge&logo=googlebard&logoColor=9333ea"></a>
