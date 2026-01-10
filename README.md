@@ -3,16 +3,16 @@
 <div align="center">
 
 <a href="README_us.md">
-  <img src="https://img.shields.io/badge/🇺🇸_ENGLISH-7c3aed?style=for-the-badge&labelColor=4c1d95"/>
+  <img src="https://img.shields.io/badge/🇺🇸_ENGLISH-7c3aed?style=for-the-badge&labelColor=4c1d95" height="35"/>
 </a>
 <a href="README_es.md">
-  <img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-8b5cf6?style=for-the-badge&labelColor=5b21b6"/>
+  <img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-8b5cf6?style=for-the-badge&labelColor=5b21b6" height="35"/>
 </a>
 <a href="README.md">
-  <img src="https://img.shields.io/badge/🇧🇷_PORTUGUÊS-a855f7?style=for-the-badge&labelColor=6d28d9"/>
+  <img src="https://img.shields.io/badge/🇧🇷_PORTUGUÊS-a855f7?style=for-the-badge&labelColor=6d28d9" height="35"/>
 </a>
-  
-<br/><br/>
+
+<br/>
 
 <!-- Badges section -->
 <a href="https://github.com/Franklin-Dantas?tab=repositories&sort=stargazers">
@@ -22,16 +22,16 @@
   <img alt="Followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Franklin-Dantas?color=8b5cf6&labelColor=6d28d9&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
 <a href="https://komarev.com/ghpvc/?username=Franklin-Dantas">
-  <img alt="Profile Views" title="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=Franklin-Dantas&color=blueviolet&style=for-the-badge&label=VIEWS"/>
+  <img alt="Profile Views" title="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=Franklin-Dantas&color=8b5cf6&style=for-the-badge&label=VIEWS"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Astronaut GIF -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2Y2x6NHB5MnBxdWt3OGJ6bXB3NnJhcXBocWV4YnE3N3RzYnFyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="280" alt="Astronaut"/>
 
 </div>
-  
+
 ##
 
 <!-- About Me Section -->
@@ -132,10 +132,10 @@ const franklin = {
 
 <!-- Skills Section -->
 <details open>
-  <summary><h2>Habilidades Técnicas</h2></summary>
+  <summary><h2>🚀 Habilidades Técnicas</h2></summary>
 
   <!-- ================= CORE SKILLS ================= -->
-  <h3>Core Skills</h3>
+  <h3>💎 Core Skills</h3>
   <p>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=A855F7"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
@@ -148,7 +148,7 @@ const franklin = {
   </p>
 
   <!-- ================= INTELIGÊNCIA ARTIFICIAL ================= -->
-  <h3>Inteligência Artificial</h3>
+  <h3>🤖 Inteligência Artificial</h3>
   <p>
     <a href="#"><img alt="LLM" src="https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=9333ea"></a>
     <a href="#"><img alt="SLM" src="https://img.shields.io/badge/SLM-0d1117?style=for-the-badge&logo=googlebard&logoColor=9333ea"></a>
@@ -170,9 +170,9 @@ const franklin = {
     <a href="#"><img alt="RAG" src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=A855F7"></a>
     <a href="#"><img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=A855F7"></a>
   </p>
-  
+
   <!-- ================= LINGUAGENS ================= -->
-  <h3>Linguagens de Programação</h3>
+  <h3>💻 Linguagens de Programação</h3>
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=A855F7"></a>
@@ -184,7 +184,7 @@ const franklin = {
   </p>
 
   <!-- ================= WEB ================= -->
-  <h3>Web & Markup</h3>
+  <h3>🌐 Web & Markup</h3>
   <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=A855F7"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=A855F7"></a>
@@ -193,7 +193,7 @@ const franklin = {
   </p>
 
   <!-- ================= FRAMEWORKS ================= -->
-  <h3>Frameworks & Bibliotecas</h3>
+  <h3>📚 Frameworks & Bibliotecas</h3>
   <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=A855F7"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=A855F7"></a>
@@ -205,7 +205,7 @@ const franklin = {
   </p>
 
   <!-- ================= DATABASE & CLOUD ================= -->
-  <h3>Banco de Dados & Cloud</h3>
+  <h3>☁️ Banco de Dados & Cloud</h3>
   <p>
     <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=A855F7"></a>
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=A855F7"></a>
@@ -220,7 +220,7 @@ const franklin = {
   </p>
 
   <!-- ================= TOOLS ================= -->
-  <h3>Ferramentas & Ambiente</h3>
+  <h3>🛠️ Ferramentas & Ambiente</h3>
   <p>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=A855F7"></a>
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=A855F7"></a>
@@ -238,32 +238,12 @@ const franklin = {
   </p>
 
 </details>
-<!-- Volunteer Section -->
-<!--
-<details align="center" open>
-  <summary><h2>🤝 Trabalho Voluntário</h2></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Franklin-Dantas&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=FFFFFF&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true&disable_animations=true" width="0" height="0"/>
-  </div>
-
-<!--
-| 🎯 | Evento | Função | Ano |
-|:---:|:---|:---|:---:|
-| 👨🏻‍💻 | **DSE** | Monitor técnico de dados | `2025` |
-| 🔬 | **SBPC** | Suporte técnico de equipamentos | `2025` |
-| 🚀 | **NASA Space Apps** | Monitor técnico e de dados | `2023-2025` |
-| 📊 | **War Room Teleton** | Time de BI - Análise em tempo real | `2025` |
-
-</details>
 
 ##
 
---> 
-
 <!-- Connect Section -->
 <div align="center">
-  <h2>Conecte-se Comigo</h2>
+  <h2>🌐 Conecte-se Comigo</h2>
   
   <a href="https://www.linkedin.com/in/franklin-dantas1998/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
@@ -286,9 +266,11 @@ const franklin = {
   </a>
 </div>
 
+##
+
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="400" alt="Star"/>
-  <br/><sub>Se você gostou do que viu, deixe uma estrela e segue meus perfis!</sub><br/><br/>
+  <br/><sub>⭐ Se você gostou do que viu, deixe uma estrela e segue meus perfis!</sub><br/><br/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1a6b,25:2d1b4e,50:1a1a3e,75:0f0f23,100:000000&height=240&section=footer"/>
@@ -309,25 +291,32 @@ const franklin = {
 </details>
 -->
 
+<!-- Volunteer Section - COMMENTED FOR FUTURE USE -->
+<!--
+<details open>
+  <summary><h2>🤝 Trabalho Voluntário</h2></summary>
+
+```
+👨🏻‍💻  DSE                   Monitor técnico de dados                              2025
+🔬  SBPC                  Suporte técnico de equipamentos                       2025  
+🚀  NASA Space Apps       Monitor técnico e de dados                            2023-2025
+📊  War Room Teleton      Time de BI - Análise em tempo real                    2025
+```
+
+</details>
+-->
+
 <!-- YouTube Section - COMMENTED FOR FUTURE USE -->
 <!--
 <details>
   <summary><h2>🎬 Últimos Vídeos do YouTube</h2></summary>
 
-  <br/>
-  
   <p align="center">
     <a href="https://www.youtube.com/channel/UCzwYz3UcZ1BhwdulCzrxIFA?sub_confirmation=1">
       <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzwYz3UcZ1BhwdulCzrxIFA?style=for-the-badge&logo=youtube&logoColor=red&label=Subscribe&color=0d1117"/>
     </a>
     <a href="https://www.youtube.com/channel/UCzwYz3UcZ1BhwdulCzrxIFA">
       <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCzwYz3UcZ1BhwdulCzrxIFA?style=for-the-badge&logo=youtube&logoColor=red&label=Views&color=0d1117"/>
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://www.youtube.com/channel/UCzwYz3UcZ1BhwdulCzrxIFA">
-      <img src="https://img.shields.io/badge/Ver%20Canal-YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube Channel"/>
     </a>
   </p>
 </details>
@@ -338,8 +327,6 @@ const franklin = {
 <details>
   <summary><h2>💜 Apoie Meu Trabalho</h2></summary>
 
-  <br/>
-  
   <p align="center">
     Se você gosta do meu trabalho, considere me apoiar!
   </p>
@@ -352,19 +339,6 @@ const franklin = {
       <img src="https://img.shields.io/badge/Ko--fi-0d1117?style=for-the-badge&logo=ko-fi&logoColor=A855F7" alt="Ko-fi"/>
     </a>
   </p>
-
-  <table align="center">
-    <tr>
-      <th>Nível</th>
-      <th>Patrocinadores</th>
-    </tr>
-    <tr>
-      <td>⭐ $5+/mês</td>
-      <td>
-        Seja o primeiro!
-      </td>
-    </tr>
-  </table>
 </details>
 -->
 
@@ -374,6 +348,4 @@ const franklin = {
   <h2>🐍 Minhas Contribuições</h2>
   <img src="https://raw.githubusercontent.com/Franklin-Dantas/Franklin-Dantas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-
 -->
